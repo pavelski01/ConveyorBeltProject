@@ -1,6 +1,6 @@
 conveyor_belt
 =============
 
-calculation of a polynomial using Horner's scheme under Linux
+calculation of a polynomial using Horner's scheme
 
 Needs: Linux operating system
