@@ -1,6 +1,6 @@
-conveyor_belt
+ConveyorBeltProject
 =============
 
-calculation of a polynomial using Horner's scheme
+Description: Calculation of a polynomial using Horner's scheme
 
 Needs: Linux operating system
